@@ -1,6 +1,17 @@
-######################
-#403 | By: Noah | DeV#
-######################
+########################
+# 403 | By: Noah | DeV #
+########################
+
+
+!!!!Normal Version!!!!
+
+Personal use Only.
+
+!!!!Premium Version!!!!
+
+Public and Personal usage.
+
+!!!!Premium Version!!!!
 
 
 ###
